@@ -6,3 +6,11 @@ DOMAIN,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
 DOMAIN,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-suffix,crl.t-mobile.com
+DOMAIN-suffix,eas3.msg.t-mobile.com
+DOMAIN-suffix,mascns.t-mobile.com
+DOMAIN-suffix,ns.sipgeo.t-mobile.com
+DOMAIN-suffix,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
+DOMAIN-suffix,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-suffix,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-suffix,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
